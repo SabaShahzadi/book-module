@@ -1,12 +1,12 @@
 {
-    "name": "saba/blog",
-    "description": "",
-    "authors": [
-        {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
-        }
-    ],
+    "name": "SabaShahzadi/book-module",
+  
+
+    "description": "A description of the module",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
+    },
     "extra": {
         "laravel": {
             "providers": [],
