@@ -1,4 +1,4 @@
-namespace sabashahzadi/book-module;
+namespace sabashahzadi/book;
 
 use Illuminate\Support\ServiceProvider;
 
